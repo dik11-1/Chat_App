@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123069975903",
+    "project_id": "database-fceae",
+    "storage_bucket": "database-fceae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123069975903:android:56711b27594a7f7ee3faea",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJKQBos-DjMlpsxMIvNLQta8UM59bVjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
