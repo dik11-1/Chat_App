@@ -1,1 +1,1 @@
-The project is made by Vo Minh Di, Le Phuoc An, Lam Minh Duc, Tran Dang Luu
+The project is made by Vo Minh Di(dik11-1), Le Phuoc An(BearS09l87), Lam Minh Duc, Tran Dang Luu
